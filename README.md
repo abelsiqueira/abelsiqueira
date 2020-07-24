@@ -64,9 +64,23 @@ We have also created one of the first data science events on the university, wit
 
 ---
 
+## [ThinkJulia translation to PT-BR](https://juliaintro.github.io/JuliaIntroBR.jl/)
+
+I have participated on the translation of the ThinkJulia book to PT-BR, available [here](https://juliaintro.github.io/JuliaIntroBR.jl/). It is a great book to start programming or to learn Julia.
+
+---
+
+<p>
+  <a href="https://github.com/abelsiqueira/jill"><img width="150" align='right' src="https://raw.githubusercontent.com/abelsiqueira/jill/master/jill.jpg"></a>
+</p>
+
 ## [JILL](https://github.com/abelsiqueira/jill) - Julia Installer 4 Linux (Light)
 
 A simple script to install Linux and MacOS using the latest binaries on the page.
+
+TL;DR:
+
+    bash -ci "$(curl -fsSL https://raw.githubusercontent.com/abelsiqueira/jill/master/jill.sh)"
 
 ---
 
