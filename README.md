@@ -1,4 +1,4 @@
-# [![Abel Soares Siqueira](header.jpg)](https://abelsiqueira.github.io)
+# [![Abel Soares Siqueira](https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/header.jpg)](https://abelsiqueira.github.io)
 
 <p align="center">
   <a href="https://youtube.com/AbelSiqueira">
@@ -18,7 +18,7 @@
 ---
 
 <p>
-  <img width="135" align='right' src="logo-academic.jpg">
+  <img width="135" align='right' src="https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/logo-academic.jpg">
 </p>
 
 ## Assistant Professor <small>at the Federal University of Paraná, Mathematics Department</small>
@@ -32,7 +32,7 @@ My research focus is on optimization and machine learning, lately focused on imp
 ---
 
 <p>
-  <a href="https://github.com/JuliaSmoothOptimizers"><img width="150" align='left' src="logo-jso.png"></a>
+  <a href="https://github.com/JuliaSmoothOptimizers"><img width="150" align='left' src="https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/logo-jso.png"></a>
 </p>
 
 ## [JuliaSmoothOptimizers](https://github.com/JuliaSmoothOptimizers)
@@ -51,7 +51,7 @@ Some of our main packages:
 ---
 
 <p>
-  <a href="https://cidamo.com.br"><img width="150" align='right' src="cidamo.png"></a>
+  <a href="https://cidamo.com.br"><img width="150" align='right' src="https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/cidamo.png"></a>
 </p>
 
 ## [CiDAMO](https://cidamo.com.br)
