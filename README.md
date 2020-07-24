@@ -72,8 +72,6 @@ A simple script to install Linux and MacOS using the latest binaries on the page
 
 ## [Perprof-py](https://github.com/ufpr-opt/perprof-py)
 
+[![](https://img.shields.io/badge/doi-10.5334/jors.81-70a.svg?style=flat-square)](http://doi.org/10.5334/jors.81)
+
 A Python module for performance profiling (as described by Dolan and Moré) with TikZ and matplotlib output.
-
-There is a paper related to this project:
-
-    Siqueira, A. S., Costa da Silva, R. G. and Santos, L.-R., (2016). Perprof-py: A Python Package for Performance Profile of Mathematical Optimization Software. Journal of Open Research Software. 4(1), p.e12. DOI: http://doi.org/10.5334/jors.81.
