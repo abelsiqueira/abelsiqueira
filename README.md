@@ -17,6 +17,8 @@
 
 ---
 
+[![Abel Siqueira's github stats](https://github-readme-stats.vercel.app/api?username=abelsiqueira&bg_color=1893f8&title_color=f6d110&text_color=ffffff&icon_color=0927eb&count_private=true&show_icons=true)](https://github.com/abelsiqueira/github-readme-stats)
+
 <p>
   <img width="135" align='right' src="https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/logo-academic.jpg">
 </p>
