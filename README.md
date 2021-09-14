@@ -19,17 +19,9 @@
 
 [![Abel Siqueira's github stats](https://github-readme-stats.vercel.app/api?username=abelsiqueira&bg_color=1893f8&title_color=f6d110&text_color=ffffff&icon_color=0927eb&count_private=true&show_icons=true)](https://github.com/abelsiqueira/github-readme-stats)
 
-<p>
-  <img width="135" align='right' src="https://raw.githubusercontent.com/abelsiqueira/abelsiqueira/master/logo-academic.jpg">
-</p>
+## Research Software Engineer <small>at the Netherlands eScience Center</small>
 
-## Assistant Professor <small>at the Federal University of Paraná, Mathematics Department</small>
-
-I teach around 5 courses a year, usually in the topics of multivariate calculus, numerical methods, numerical linear algebra and optimization.
-
-I also work in the [Data Science & Big Data specialization](https://dsbd.leg.ufpr.br), where I teach optimization and machine learning.
-
-My research focus is on optimization and machine learning, lately focused on implementing a framework for nonlinear optimization called JuliaSmoothOptimizers. I am also co-creator of the group CiDAMO. Both are explained in more details below.
+More info soon :tm:
 
 ---
 
